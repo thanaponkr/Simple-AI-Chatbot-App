@@ -1,6 +1,6 @@
 # Simple AI Chatbot Web Application
 
-![AI Chatbot Screenshot](link_to_your_screenshot.jpg)
+![AI Chatbot Screenshot](https://github.com/thanaponkr/Simple-AI-Chatbot-App/blob/main/AI_Chatbot.png)
 
 A simple, web-based chatbot powered by Google's Gemini API. This project demonstrates the integration of a large language model into a Flask web application to create an interactive and conversational user experience.
 
